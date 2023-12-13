@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pr28Winter</string>
+    <string name="sky" />
+    <string name="sun" />
+    <string name="grass" />
+    <string name="clock" />
+</resources>
